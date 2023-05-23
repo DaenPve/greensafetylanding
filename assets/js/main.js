@@ -95,3 +95,8 @@
   // WOW active
   new WOW().init();
 })();
+
+
+function url(){
+  window.open("https://docs.google.com/uc?export=download&id=15C6ct3HdzGe9apxs3EG-fvibB5jtiUHq")
+}
