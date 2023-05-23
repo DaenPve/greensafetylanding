@@ -75,6 +75,8 @@
       }
     }
   }
+  
+  document.getElementById('a').setAttribute('href', 'https://drive.google.com/uc?export=download&id=15C6ct3HdzGe9apxs3EG-fvibB5jtiUHq&confirm=t&uuid=8ebbd64c-737c-47f6-8d86-ca79fdff69d2&at=AKKF8vxxJKMEHnlynSlzA2gPgXeq:1684820039387');
 
   window.document.addEventListener("scroll", onScroll);
 
@@ -95,8 +97,3 @@
   // WOW active
   new WOW().init();
 })();
-
-
-function url(){
-  window.open("https://docs.google.com/uc?export=download&id=15C6ct3HdzGe9apxs3EG-fvibB5jtiUHq")
-}
